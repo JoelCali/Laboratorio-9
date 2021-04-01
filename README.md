@@ -159,3 +159,9 @@ LM324
 9.- BIBLIOGRAFÍA
 
 Floyd, T.L. (2007). Principios de circuitos eléctricos (Octava ed.)
+
+Amplificador operacional ideal. (s. f.). Electronicafacil. Recuperado 31 de marzo de 2021, de https://www.electronicafacil.net/tutoriales/Amplificador-operacional-ideal.html
+
+Amplificadores operacionales duales LM358 - TI | DigiKey. (s. f.). Digikey. Recuperado 31 de marzo de 2021, de https://www.digikey.com.mx/es/product-highlight/t/texas-instruments/lm358-dual-operational-amplifiers
+
+Amplificador Operacional LM324. (s. f.). Electronicalplugandplay. Recuperado 31 de marzo de 2021, de https://www.electronicaplugandplay.com/circuitos-integrados/product/480-amplificador-operacional-lm324
