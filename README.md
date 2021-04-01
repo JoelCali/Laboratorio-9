@@ -20,6 +20,18 @@
 
  4.- DIAGRAMAS
 
+Primer Circuito con osciloscopio
+
+![image](https://user-images.githubusercontent.com/76132461/113227714-f4657800-9258-11eb-829d-895035f76272.png)
+
+Segundo Circuito con osciloscopio
+
+![image](https://user-images.githubusercontent.com/76132461/113227781-14953700-9259-11eb-9c8d-0932f0a181f5.png)
+
+Tercer Circuito con osciloscopio
+
+![image](https://user-images.githubusercontent.com/76132461/113227822-2ecf1500-9259-11eb-80fe-0677ae2968b2.png)
+
  5.- EXPLICACIÓN
     
  5.1.- PROCEDIMIENTO
