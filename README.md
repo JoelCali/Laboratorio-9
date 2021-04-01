@@ -14,6 +14,8 @@
 
  2.- Marco Teórico
 
+![image](https://user-images.githubusercontent.com/76134214/113245142-ef65f000-927b-11eb-951f-da6d10b0d1f5.png)
+
  3.- Lista de componentes
  
 ![image](https://user-images.githubusercontent.com/76132461/113213418-c9215f80-923d-11eb-9392-6006ad30ddd9.png)
@@ -104,6 +106,7 @@ En un A.O. ideal la salida es proporcional a la diferencia entre las señales de
 A esta frecuencia la ganancia en ciclo abierto del A.O. se reduce a la unidad.
 
 * Velocidad de subida (stew-rate).
+
 Es la velocidad de variación a la salida, y son valores típicos de 1V/ms a 10V/ms. Su principal afecto es limitar el ancho de banda de señales grandes.
 
 2. Investigue las características de amplificadores operacionales distintos a los utilizados en esta práctica.
@@ -172,6 +175,10 @@ LM324
 3. Investigue otras aplicaciones con circuitos más complejos que utilizan amplificadores operacionales.
 
 8.- CONCLUSIONES
+
+* El comportamiento del amplificador operacional con resistencias y capacitores, se diferencia ya que el capacitor tendrá un valor fijo gracias a su fuente de voltaje y a su comportamiento ya que ira de 0 hasta el valor designado en la fuente en ciclos de encendido y apagado. Por el lado contrario la resistencia disminuirá la amplificación y demostrará una onda sinusoidal dependiendo de la variación de la fuente.
+
+* Las diferentes fuentes de voltaje cambiaran la forma de la onda en el osciloscopio, como por ejemplo cuadradas y onduladas.
 
 9.- BIBLIOGRAFÍA
 
