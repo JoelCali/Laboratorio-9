@@ -36,7 +36,7 @@ Tercer Circuito con osciloscopio
     
  5.1.- PROCEDIMIENTO
 
- 1. Se ingresa a la página  y se extraen los materiales que vamos a utilizar de la biblioteca.
+ 1. Se ingresa a la página multisim live, se crea una cuenta y se extraen de la biblioteca los materiales que vamos a utilizar.
 
 2. Tanto las fuentes de voltaje como los las resistencias se configuran a los valores antes establecidos.
 
