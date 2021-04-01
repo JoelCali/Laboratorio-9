@@ -174,6 +174,22 @@ LM324
 
 3. Investigue otras aplicaciones con circuitos más complejos que utilizan amplificadores operacionales.
 
+Con la llegada de los amplificadores operacionales fue inevitable la mejora continua de los mismos los cuales han tenido un rediseño para mejorar, optimizar y añadir ciertas características. Se diseñaron circuitos integrados de función en especial, en los que hay mas de un amplificador operacional, para un fin en específico y funciones complejas.
+
+Cada amplificador operacional cuenta con una hoja de datos conocido como Datasheet, para consultarlo y darse cuenta de la gran variedad de funciones y características técnicas. Algunos ejemplos donde se utilizan y se especializan son:
+
+* Instrumentación y control automotrices.
+
+* Circuitos integrados para comunicaciones.
+
+* Circuitos integrados para radio, audio y video.
+
+* Circuitos integrados para electrómetros usados en circuitos con impedancia de entrada muy elevada.
+
+* Circuitos integrados que funcionen con una sola fuente de alimentación.
+
+* Circuitos integrados que funcionen con fuentes de alimentación bipolares.
+
 8.- CONCLUSIONES
 
 * El comportamiento del amplificador operacional con resistencias y capacitores, se diferencia ya que el capacitor tendrá un valor fijo gracias a su fuente de voltaje y a su comportamiento ya que ira de 0 hasta el valor designado en la fuente en ciclos de encendido y apagado. Por el lado contrario la resistencia disminuirá la amplificación y demostrará una onda sinusoidal dependiendo de la variación de la fuente.
