@@ -49,7 +49,108 @@ en el trabajo preparatorio. Comente dicha comparación.
 
 1. Anote parámetros técnicos importantes de un amplificador operacional que deben ser tomados en cuenta al momento de utilizarlos en un proyecto.
 
+* Ganancia de tensión en bucle abierto.
+
+Es como en todo amplificador, el cociente entre la tensión de salida y la de entrada cuando hay realimentación. En los A.O. actuales se alcanzan valores de 100.000 o más y es frecuente que el fabricante los especifique en dB.
+
+* Impedancia de entrada.
+
+Normalmente expresa la parte resistiva vista desde los terminales de entrada. Son típicos los valores de algunos megaohmios.
+
+* Impedancia de salida Zo.
+
+Es asimismo la parte resistiva vista desde los terminales de salida. Son típicos valores entre 100 y 200 ohmios.
+
+* Corriente de polarización de entrada (Input Bias Current).
+
+Es la pequeña corriente que se deriva por los terminales de entrada. En general de del orden de algún microamperio.
+Margen de tensiones de alimentación.Indican valores máximos y mínimos para un funcionamiento correcto del A.O. Vienen
+
+* Margen de tensiones de entrada Vi.
+
+La tensión en los terminales de entrada no debe superar nunca la de alimentación, pues en caso contrario podría dañarse el circuito.
+
+* Margen de tensiones de salida.
+
+Tal como hemos visto, la tensión máxima a la salida no puede ser superior a la de alimentación y cuando se alcanza esta tensión máxima de salida se dice que el A.O. está en saturación.
+
+* Tensión diferencial de descentrado a la salida (off-set).
+
+En un A.O. ideal la tensión de salida es nula cuando ambas entradas se hallan a potencial cero. En la práctica no encontramos con que esto no se cumple, y aparecen en los circuitos internos de entrada pequeñas tensiones que, una vez amplificadas por la alta ganancia del dispositivo pueden llevar a la salida incluso hasta el estado de saturación. Para evitar este inconveniente la mayoría de A.O. poseen métodos externos de corrección, que será conveniente emplear en circuitos en los que se requiera alta precisión (por ejemplo en seguidores de tensión).
+
+* Relación de rechazo en modo común CMRR (Common mode rejection ratio).
+
+En un A.O. ideal la salida es proporcional a la diferencia entre las señales de entrada, siendo ésta nula cuando el valor de ambas entradas es igual. En un A.O. real esto no se cumple exactamente, y entre dos pares de tensiones que mantengan la misma diferencia, la salida puede ser algo mayor en el caso de tensiones superiores. La CMRR es el cociente entre la amplificación diferencial y la de modo común; y cuanto mayor sea, más se acercará al caso ideal.
+
+* Frecuencia de transición.
+
+A esta frecuencia la ganancia en ciclo abierto del A.O. se reduce a la unidad.
+
+* Velocidad de subida (stew-rate).
+Es la velocidad de variación a la salida, y son valores típicos de 1V/ms a 10V/ms. Su principal afecto es limitar el ancho de banda de señales grandes.
+
 2. Investigue las características de amplificadores operacionales distintos a los utilizados en esta práctica.
+
+LM358
+
+•	Amplio rango de suministro
+
+o	Fuente única: 3 V a 32 V
+
+o	Fuentes duales: ±1.5 V a ±16V
+
+•	Drenaje de corriente de suministro baja independiente del voltaje de suministro: 0.7 mA típica
+
+•	Ancho de banda de ganancia de unidad: 0.7 MHz
+
+•	El rango de voltaje de modo común de entrada incluye tierra, lo que permite detección directa cerca de tierra.
+
+•	Rango de voltaje de entrada diferencial igual al voltaje de alimentación de rango máximo: 32 V
+
+•	Ganancia de voltaje diferencial de lazo abierto: 100 dB típica
+
+•	Compensación de frecuencia interna
+
+•	Parámetros de desviación y de polarización de entrada bajos
+
+o	Bajo voltaje de desviación de entrada: 3 mV típica
+
+	Versiones A: 2 mV típica
+
+o	Corriente de desviación de entrada: 2 nA típ.
+
+o	Corriente de polarización de entrada: 20 nA
+
+	Versiones A: típico 15 nA típica
+
+•	En los productos conformes a MIL-PRF-38535, todos los parámetros son probados a menos que se indique lo contrario. En todos los otros productos, el proceso de producción no necesariamente incluye la prueba de todos los parámetros.
+
+
+LM324
+
+• Rango de voltaje de operación: 3V a 32VDC. (Fuente sencilla)
+
+• Rango de voltaje de operación: ±1.5V a ±16VDC. (Fuente dual)
+
+• Bajo Voltaje Offset de entrada: 2 mV.
+
+• Ancho de banda: 1 MHz
+
+• Encapsulado: DIP14.
+
+• Rango de temperatura de operación: 0°C hasta 70°C
+
+• Multímetros digitales.
+
+• Control de motores.
+
+• Interfaces transductoras.
+
+• Sistemas de adquisición de datos.
+
+• Procesos de control industrial.
+
+• Televisores y Home Theaters.
 
 3. Investigue otras aplicaciones con circuitos más complejos que utilizan amplificadores operacionales.
 
