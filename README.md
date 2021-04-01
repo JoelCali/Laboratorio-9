@@ -22,15 +22,15 @@
 
 Primer Circuito con osciloscopio
 
-![image](https://user-images.githubusercontent.com/76132461/113227714-f4657800-9258-11eb-829d-895035f76272.png)
+![image](https://user-images.githubusercontent.com/76132461/113228419-74401200-925a-11eb-940b-d64785f52353.png)
 
 Segundo Circuito con osciloscopio
 
-![image](https://user-images.githubusercontent.com/76132461/113227781-14953700-9259-11eb-9c8d-0932f0a181f5.png)
+![image](https://user-images.githubusercontent.com/76132461/113228366-5377bc80-925a-11eb-84aa-178e8da95bee.png)
 
 Tercer Circuito con osciloscopio
 
-![image](https://user-images.githubusercontent.com/76132461/113227822-2ecf1500-9259-11eb-80fe-0677ae2968b2.png)
+![image](https://user-images.githubusercontent.com/76132461/113228492-9e91cf80-925a-11eb-9eb1-396fada6ab85.png)
 
  5.- EXPLICACIÓN
     
@@ -54,8 +54,13 @@ Tercer Circuito con osciloscopio
 
 6.- ANÁLISIS DE RESULTADOS
 
-Analice y compare las formas de onda obtenidas en la práctica con los resultados obtenidos
-en el trabajo preparatorio. Comente dicha comparación.
+Analice y compare las formas de onda obtenidas en la práctica con los resultados obtenidos en el trabajo preparatorio. Comente dicha comparación.
+
+Podemos observar que en el primer circuito en la onda de salida tenemos un voltaje pico de 4.28 V, en este circuito se ha trabajo solo con resistencias, la onda representa una onda senoidal representada en color verde. La onda morada es otra onda senoidal pero representa al voltaje de entrada que tenemos de la fuente de voltaje en este caso es de 998.98 V, acercandose a 1 V, tal y como se establecio en nuestra fuente. 
+
+En el segundo circuito trabajamos con una fuente de voltaje de 5 V con una forma de onda pulsante, es debido a eso que el voltaje se mantiene estable en el punto maximo por milisegundos y de nuevo vuelve a ser cero. Al final del circuito podemos observar un valor de -14.089, se produce un voltaje negativo ya que al ser una onda pulsante nosotros estamos conectando en una fuente inversora, es por eso que nuestro voltaje es negativo.
+
+En el tercer circuito se puede observar que el voltaje es de la onda de color morado es de 0.998 V acercandose a 1 V, es debido a que es el valor que nosotros establecimos en nuestras fuentes, pero solo se ve un color ya que esta una onda sobre la otra, debido a que tiene el mismo valor. Mientras que la onda amarilla tiene un voltaje pico de 8.28, si comparamos con la primera fuente podemos observar que es el doble de la primera, ya que utilizamos dos fuentes de voltaje de las mismas características entonces nuestro voltaje de salida se duplica.
 
 7.- PREGUNTAS
 
