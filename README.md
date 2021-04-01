@@ -16,7 +16,7 @@
 
  3.- Lista de componentes
  
- ![image](https://user-images.githubusercontent.com/76132461/113213418-c9215f80-923d-11eb-9392-6006ad30ddd9.png)
+![image](https://user-images.githubusercontent.com/76132461/113213418-c9215f80-923d-11eb-9392-6006ad30ddd9.png)
 
  4.- DIAGRAMAS
 
